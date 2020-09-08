@@ -1,6 +1,5 @@
 
-# may need to install OsX command-line tools
-xcode-select --install
+xcode-select --installaaaaaaaaaaaaaaa
 
 # install home brew
 # READ: https://brew.sh/
