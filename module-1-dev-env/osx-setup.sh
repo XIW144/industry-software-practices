@@ -1,8 +1,6 @@
-
-# may need to install OsX command-line tools
 xcode-select --install
-
-# install home brew
+sssssss
+# install home brewsssssssssssssssssss
 # READ: https://brew.sh/
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
